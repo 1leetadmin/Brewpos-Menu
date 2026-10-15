@@ -14,3 +14,10 @@ BrewPOS-Android / BrewPOS-Local-install-LAN-v1.
 
 Hosting: GitHub Pages (Settings > Pages > Deploy from a branch > main / root).
 GitHub Pages needs this repository to be public on a free GitHub plan.
+
+## preview/
+
+A preview of the next version of the page (accessibility and touch fixes,
+2026-10-15) with the demo menu, at `.../Brewpos-Menu/preview/`. The live page
+at the root is unchanged. Delete this folder once the fixes are merged and the
+root page is updated.
